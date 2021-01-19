@@ -25,6 +25,9 @@
     doc.addEventListener('DOMContentLoaded', recalc, false);
 })(document, window); 
 export default {
+  data(){
+    return{}
+  },
   
 }
 </script>
